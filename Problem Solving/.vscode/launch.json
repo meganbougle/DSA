@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/meganbougle/Downloads/DSA/Problem Solving",
+      "program": "/Users/meganbougle/Downloads/DSA/Problem Solving/build/Debug/outDebug"
+    }
+  ]
+}
